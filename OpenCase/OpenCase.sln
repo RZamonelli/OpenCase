@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCase", "OpenCase.csproj", "{F31D25FB-81C1-4DAC-A8B5-36EBED7E400B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTOpenCase", "..\UTOpenCase\UTOpenCase.csproj", "{10E87407-2290-4DCA-8C94-69776E6964B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31D25FB-81C1-4DAC-A8B5-36EBED7E400B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31D25FB-81C1-4DAC-A8B5-36EBED7E400B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31D25FB-81C1-4DAC-A8B5-36EBED7E400B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31D25FB-81C1-4DAC-A8B5-36EBED7E400B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E87407-2290-4DCA-8C94-69776E6964B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E87407-2290-4DCA-8C94-69776E6964B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E87407-2290-4DCA-8C94-69776E6964B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E87407-2290-4DCA-8C94-69776E6964B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF9A34F0-84AF-48E5-BCA1-430B6EC0E6F2}
+	EndGlobalSection
+EndGlobal
