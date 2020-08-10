@@ -1,0 +1,17 @@
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\UTOpenCase.dll
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\UTOpenCase.pdb
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\OpenCase.exe
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\OpenCase.pdb
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\OpenCase.exe.config
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\obj\Debug\UTOpenCase.csprojAssemblyReference.cache
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\obj\Debug\UTOpenCase.csproj.CoreCompileInputs.cache
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\obj\Debug\UTOpenCase.csproj.CopyComplete
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\obj\Debug\UTOpenCase.dll
+C:\Users\DojoKata\Documents\GitHub\OpenCase\UTOpenCase\obj\Debug\UTOpenCase.pdb

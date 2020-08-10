@@ -1,0 +1,7 @@
+C:\Users\DojoKata\Documents\GitHub\OpenCase\OpenCase\bin\Debug\OpenCase.exe.config
+C:\Users\DojoKata\Documents\GitHub\OpenCase\OpenCase\bin\Debug\OpenCase.exe
+C:\Users\DojoKata\Documents\GitHub\OpenCase\OpenCase\bin\Debug\OpenCase.pdb
+C:\Users\DojoKata\Documents\GitHub\OpenCase\OpenCase\obj\Debug\OpenCase.csprojAssemblyReference.cache
+C:\Users\DojoKata\Documents\GitHub\OpenCase\OpenCase\obj\Debug\OpenCase.csproj.CoreCompileInputs.cache
+C:\Users\DojoKata\Documents\GitHub\OpenCase\OpenCase\obj\Debug\OpenCase.exe
+C:\Users\DojoKata\Documents\GitHub\OpenCase\OpenCase\obj\Debug\OpenCase.pdb

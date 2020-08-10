@@ -6,17 +6,33 @@ using System.Threading.Tasks;
 
 namespace OpenCase
 {
-    public class HemoReport 
-    {
 
+    public interface IReports
+    {
+        void CreateReport(IReportContext ReportContext);
     }
 
-    public class VitalsReport
+    public class HemoReport : IReports
     {
-
+        public void CreateReport(IReportContext ReportContext)
+        {
+            ReportContext.nomeReport = "Hemo Report";
+        }
     }
-    public class CaseReport
-    {
 
+    public class VitalsReport : IReports
+    {
+        public void CreateReport(IReportContext ReportContext)
+        {
+            ReportContext.nomeReport = "Vitals Report";
+        }
+     }
+ 
+    public class CaseReport : IReports
+    {
+        public void CreateReport(IReportContext ReportContext)
+        {
+            ReportContext.nomeReport = "Case Report";
+        }
     }
 }
